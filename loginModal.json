@@ -1,0 +1,7 @@
+{
+    "emailInput" : "[id='loginEmail']",
+    "passwordInput" : "[id='loginPassword']",
+    "loginButton" : "[class='LoginModule_buttons'] > button",
+    "signUpButton" : "[data-cy='signUpLogin']",
+    "closeButton" : "svg[class='Cancel']"
+}

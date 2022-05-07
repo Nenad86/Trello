@@ -1,0 +1,7 @@
+{
+    "emailInput" : "[id='signupEmail']",
+    "passwordInput" : "[id='signupPassword']",
+    "loginButton" : "[data-cy='registerButton']",
+    "goToLoginButton" : "[data-cy='goToLogin']",
+    "closeButton" : "svg[class='Cancel']"
+}
