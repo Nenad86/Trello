@@ -1,0 +1,16 @@
+{
+    "taskModuleTitle" : "[class='Input TaskModule_title']",
+    "taskModuleList" : "h5[class='TaskModule_list']",
+    "descriptionTitle" : "[data-cy='descriptionTitle']",
+    "descriptionField" : "p[class='TaskModule_description']",
+    "descriptionSaveButton" : "[class='TaskModule_options'] > button",
+    "descriptionCancelButton" : ".TaskModule_options > .Cancel",
+    "dueDateTitle" : "[data-cy='dueDateTitle']",
+    "dueDate" : "[type='date']",
+    "uploadImageTitle" : "[data-cy='uploadImageTitle']",
+    "uploadImageField" : "[class='dz-message']",
+    "taskModuleDropdown" : ".TaskModule_exit > .dropdown > .options",
+    "closeTaskOption" : "[id='myDropdown'] > [css='2']",
+    "copyPropertiesOption" : "[data-cy='copyPropertiesTask']",
+    "deleteTaskOption" : ".TaskModule_exit > .dropdown > #myDropdown > .delete"
+}

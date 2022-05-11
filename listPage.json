@@ -1,0 +1,9 @@
+{
+    "createListField" : "[class='CreateList_input']",
+    "saveListButton" : "[class='CreateList_options'] > button",
+    "cancelListButton" : ".CreateList_options > .Cancel",
+    "listDropdown" : ".List > .dropdown > .options",
+    "addListField" : "h3[class='CreateList_title']",
+    "deleteList" : ".List >.dropdown > .dropdown-content > .delete",
+    "copyProperties" : "[data-cy='copyProperties']"
+}
