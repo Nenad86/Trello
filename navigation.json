@@ -1,4 +1,4 @@
 {
     "loginButton" : "[data-name='Layer 1']",
-    "myBoarsdButton" : "[data-cy='myBoardsButton']"
+    "myBoardsButton" : "[class='Nav_boards Nav_button router-link-active']"
 }

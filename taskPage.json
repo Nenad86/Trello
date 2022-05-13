@@ -1,7 +1,7 @@
 {
-    "addNewTaskButton" : "h5[class='List_addTask']",
-    "addButton" : ".List_newTaskOptions > button",
-    "cancelTaskButton" : ".List_newTaskOptions > .Cancel",
+    "addNewTaskButton" : "[class='List_addTask']",
+    "addButton" : "[class='List_newTaskOptions'] > [class='Button']",
+    "cancelTaskButton" : "[class='List_newTaskOptions'] > [class='Cancel']",
     "taskTitleField" : "[data-id='newTaskTitle']",
     "taskCheckbox" : "[class='Task'] > [class='container'] > [type='checkbox']"
 }

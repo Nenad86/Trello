@@ -1,16 +1,16 @@
 {
     "taskModuleTitle" : "[class='Input TaskModule_title']",
-    "taskModuleList" : "h5[class='TaskModule_list']",
-    "descriptionTitle" : "[data-cy='descriptionTitle']",
-    "descriptionField" : "p[class='TaskModule_description']",
-    "descriptionSaveButton" : "[class='TaskModule_options'] > button",
-    "descriptionCancelButton" : ".TaskModule_options > .Cancel",
-    "dueDateTitle" : "[data-cy='dueDateTitle']",
+    "taskModuleList" : "[class='TaskModule_list']",
+    "descriptionTitle" : ".Overlay > div > h6:nth-of-type(1)",
+    "descriptionField" : "[class='TaskModule_description']",
+    "descriptionSaveButton" : "[class='TaskModule_options'] > [class='Button']",
+    "descriptionCancelButton" : "[class='TaskModule_options'] > [class='Cancel']",
+    "dueDateTitle" : ".Overlay > div > h6:nth-of-type(2)",
     "dueDate" : "[type='date']",
-    "uploadImageTitle" : "[data-cy='uploadImageTitle']",
+    "uploadImageTitle" : "div:nth-of-type(4) > .TaskModule_descriptionTitle",
     "uploadImageField" : "[class='dz-message']",
-    "taskModuleDropdown" : ".TaskModule_exit > .dropdown > .options",
-    "closeTaskOption" : "[id='myDropdown'] > [css='2']",
-    "copyPropertiesOption" : "[data-cy='copyPropertiesTask']",
-    "deleteTaskOption" : ".TaskModule_exit > .dropdown > #myDropdown > .delete"
+    "taskModuleDropdown" : "[class='TaskModule_exit'] > [class='dropdown'] > [class='options']",
+    "closeTaskOption" : "[class='dropdown'] > [id='myDropdown'] > [xpath='1']",
+    "copyPropertiesOption" : ".Overlay div#myDropdown > span:nth-of-type(2)",
+    "deleteTaskOption" : "[class='TaskModule_exit'] > [class='dropdown'] > [id='myDropdown'] > [class='delete']"
 }

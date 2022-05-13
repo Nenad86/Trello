@@ -1,7 +1,7 @@
 {
     "emailInput" : "[id='signupEmail']",
     "passwordInput" : "[id='signupPassword']",
-    "signUpButton" : "[data-cy='registerButton']",
-    "goToLoginButton" : "[data-cy='goToLogin']",
-    "closeButton" : "svg[class='Cancel']"
+    "signUpButton" : "[class='credentials'] > [class='LoginModule_buttons'] > [class='Button']",
+    "goToLoginButton" : "div:nth-of-type(3) > .LoginModule_logSignSwitch > a",
+    "closeButton" : "[class='LoginModule_exit'] > [class='Cancel']"
 }

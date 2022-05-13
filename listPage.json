@@ -1,9 +1,9 @@
 {
     "createListField" : "[class='CreateList_input']",
-    "saveListButton" : "[class='CreateList_options'] > button",
-    "cancelListButton" : ".CreateList_options > .Cancel",
-    "listDropdown" : ".List > .dropdown > .options",
-    "addListField" : "h3[class='CreateList_title']",
-    "deleteList" : ".List >.dropdown > .dropdown-content > .delete",
-    "copyProperties" : "[data-cy='copyProperties']"
+    "saveListButton" : "[class='CreateList_options'] > [class='Button']",
+    "cancelListButton" : "[class='CreateList_options'] > [class='Cancel']",
+    "listDropdown" : "[class='List'] > [class='dropdown'] > [class='options']",
+    "addListField" : "[class='CreateList_title']",
+    "deleteList" : "[class='List'] > [class='dropdown'] > [class='dropdown-content'] > [class='delete']",
+    "copyProperties" : ".List  div#myDropdown > span:nth-of-type(2)"
 }
