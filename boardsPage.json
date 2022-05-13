@@ -1,11 +1,11 @@
 {
-    "createBoardField" : "[id='new-board']",
-    "addBoardField" : "[class='board_addBoard']",
-    "saveBoardButton" : "[class='board_options'] > [class='Button']",
-    "cancelBoardButton" : "[class='board_options'] > [class='Cancel']",
-    "boardDropdown" : "[class='boardDetail_info'] > [class='dropdown'] > [class='options']",
-    "boardTitle" : "[class='boardDetail_title']",
-    "addListField" : "[class='CreateList_title']",
-    "deleteBoard" : "[class='boardDetail_info'] > [class='dropdown'] > [class='dropdown-content'] > [class='delete']",
+    "createBoardField" : "#new-board",
+    "addBoardField" : ".board_addBoard",
+    "saveBoardButton" : ".board_options > .Button",
+    "cancelBoardButton" : ".board_options > .Cancel",
+    "boardDropdown" : ".boardDetail_info > .dropdown > .options",
+    "boardTitle" : ".boardDetail_title",
+    "addListField" : ".CreateList_title",
+    "deleteBoard" : ".boardDetail_info > .dropdown > .dropdown-content > .delete",
     "copyProperties" : ".boardDetail_info span:nth-of-type(2)" 
 }

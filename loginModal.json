@@ -1,7 +1,7 @@
 {
-    "emailInput" : "[id='loginEmail']",
-    "passwordInput" : "[id='loginPassword']",
-    "loginButton" : "[class='LoginModule_buttons'] > [class='button']",
+    "emailInput" : "#loginEmail",
+    "passwordInput" : "#loginPassword",
+    "loginButton" : ".LoginModule_buttons > .Button",
     "signUpButton" : "div:nth-of-type(2) > .LoginModule_logSignSwitch > a",
-    "closeButton" : "[class='LoginModule_exit'] > [class='Cancel']"
+    "closeButton" : ".LoginModule_exit > .Cancel"
 }
