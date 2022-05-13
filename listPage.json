@@ -1,0 +1,9 @@
+{
+    "createListField" : ".CreateList_input",
+    "saveListButton" : ".CreateList_options > .Button",
+    "cancelListButton" : ".CreateList_options > .Cancel",
+    "listDropdown" : ".List > .dropdown > .options",
+    "addListField" : ".CreateList_title",
+    "deleteList" : ".List > .dropdown > .dropdown-content > .delete",
+    "copyProperties" : ".List  div#myDropdown > span:nth-of-type(2)"
+}

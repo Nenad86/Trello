@@ -1,0 +1,7 @@
+{
+    "addNewTaskButton" : ".List_addTask",
+    "addButton" : ".List_newTaskOptions > .Button",
+    "cancelTaskButton" : ".List_newTaskOptions > .Cancel",
+    "taskTitleField" : "[data-id='newTaskTitle']",
+    "taskCheckbox" : ".Task > .container > [type='checkbox']"
+}

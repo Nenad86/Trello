@@ -1,0 +1,16 @@
+{
+    "taskModuleTitle" : "[class='Input TaskModule_title']",
+    "taskModuleList" : ".TaskModule_list",
+    "descriptionTitle" : ".Overlay > div > h6:nth-of-type(1)",
+    "descriptionField" : ".TaskModule_description",
+    "descriptionSaveButton" : ".TaskModule_options > .Button",
+    "descriptionCancelButton" : ".TaskModule_options > .Cancel",
+    "dueDateTitle" : ".Overlay > div > h6:nth-of-type(2)",
+    "dueDate" : "[type='date']",
+    "uploadImageTitle" : "div:nth-of-type(4) > .TaskModule_descriptionTitle",
+    "uploadImageField" : ".dz-message",
+    "taskModuleDropdown" : ".TaskModule_exit > .dropdown > .options",
+    "closeTaskOption" : ".Overlay div#myDropdown > span:nth-of-type(1)",
+    "copyPropertiesOption" : ".Overlay div#myDropdown > span:nth-of-type(2)",
+    "deleteTaskOption" : ".TaskModule_exit > .dropdown > #myDropdown > .delete"
+}

@@ -1,0 +1,11 @@
+{
+    "createBoardField" : "#new-board",
+    "addBoardField" : ".board_addBoard",
+    "saveBoardButton" : ".board_options > .Button",
+    "cancelBoardButton" : ".board_options > .Cancel",
+    "boardDropdown" : ".boardDetail_info > .dropdown > .options",
+    "boardTitle" : ".boardDetail_title",
+    "addListField" : ".CreateList_title",
+    "deleteBoard" : ".boardDetail_info > .dropdown > .dropdown-content > .delete",
+    "copyProperties" : ".boardDetail_info span:nth-of-type(2)" 
+}
