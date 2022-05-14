@@ -1,4 +1,0 @@
-{
-    "loginButton" : "[data-name='Layer 1']",
-    "myBoardsButton" : "[class='Nav_boards Nav_button router-link-active']"
-}

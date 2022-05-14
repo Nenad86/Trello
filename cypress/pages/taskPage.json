@@ -1,5 +1,6 @@
 {
     "addNewTaskButton" : ".List_addTask",
+    "taskField" : ".Task",
     "addButton" : ".List_newTaskOptions > .Button",
     "cancelTaskButton" : ".List_newTaskOptions > .Cancel",
     "taskTitleField" : "[data-id='newTaskTitle']",

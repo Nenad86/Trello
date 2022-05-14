@@ -1,0 +1,22 @@
+{
+  "name": "automatizacija",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nenad86/Trello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nenad86/Trello/issues"
+  },
+  "homepage": "https://github.com/Nenad86/Trello#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}

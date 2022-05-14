@@ -4,6 +4,7 @@
     "cancelListButton" : ".CreateList_options > .Cancel",
     "listDropdown" : ".List > .dropdown > .options",
     "addListField" : ".CreateList_title",
+    "typeListField" : "[class='CreateList_input']",
     "deleteList" : ".List > .dropdown > .dropdown-content > .delete",
     "copyProperties" : ".List  div#myDropdown > span:nth-of-type(2)"
 }
